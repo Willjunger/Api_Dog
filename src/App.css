@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@700&family=Lexend+Zetta&family=Lobster&family=Ranchers&family=Rowdies&display=swap");
+
+.fonte {
+	font-size: 22px;
+}
+
+.fonte-Rowdies {
+	font-family: "Rowdies", sans-serif;
+}
+.fonte-Lexend {
+	font-family: "Lexend Zetta", cursive;
+}
+.fonte-Ranchers {
+	font-family: "Ranchers", cursive;
+}
+.fonte-Lobster {
+	font-family: "Lobster", cursive;
+}
+.fonte-Jura {
+	font-family: "Jura", sans-serif;
+}
+
+.cor-azul {
+	color: blue;
+}
+.cor-vermelho {
+	color: red;
+}
+.cor-verde {
+	color: green;
+}
+.cor-branco {
+	color: white;
+}
+.cor-preto {
+	color: black;
+}
+
+.imagem-tamanho {
+	max-height: 380px;
+	width: 100%;
+	height: 350px;
+}
